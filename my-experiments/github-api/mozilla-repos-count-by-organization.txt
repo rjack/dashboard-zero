@@ -1,0 +1,28 @@
+Repos	Organization
+--------------------
+1106	mozilla
+182	mozilla-b2g
+172	mozilla-services
+86	servo
+66	mdn
+48	rust-lang
+38	mozillahispano
+29	mozilla-metrics
+26	jetpack-labs
+23	mozbrick
+21	Mozilla-TWQA
+17	mozilla-appmaker
+16	mozfr
+16	hackasaurus
+15	MozillaSecurity
+11	webcompat
+8	mozilla-cordova
+7	tabulapdf
+6	OpenNews
+5	mozillayvr
+4	MozillaWiki
+3	drumbeat-badge-sprint
+2	mozilla-comm
+2	bugzilla
+--------------------
+1909	Total
